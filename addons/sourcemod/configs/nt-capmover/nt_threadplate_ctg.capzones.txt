@@ -1,0 +1,28 @@
+CapZones
+{
+	timer "10"
+	CapZone 
+	{
+		team "0"
+		Radius "350"
+		origin "376.593 -3950.437 185.031"
+	}
+	CapZone 
+	{
+		team "0"
+		Radius "350"
+		origin "-376.531 -4996.062 185.031"
+	}
+	CapZone 
+	{
+		team "1"
+		Radius "350"
+		origin "2210.125 -1809.562 249.031"
+	}
+	CapZone 
+	{
+		team "1"
+		Radius "350"
+		origin "1028.718 -867.281 185.031"
+	}
+}
